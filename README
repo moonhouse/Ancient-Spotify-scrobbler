@@ -1,0 +1,8 @@
+These files are with all likelyhood of minimal interest nowadays and uploaded just for keeping record of how things were back in the dark ages (anno domini 2007). At the time before builtin scrobbling in Spotify.
+
+The files are: (date indicates last modified)
+
+spotify.pl - Jul 9 2007 : First test for seeing when Spotify's metadata cache file is updated
+spotest.pl - Jul 31 2007: Trying to make out what field is for what.
+parsecache.pl - Jul 31 2007: Extract song information about latest played track
+checkcache.pl - Oct 31 2007: Integrated with scrobbling to last.fm using Audio::Scrobbler
